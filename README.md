@@ -581,15 +581,14 @@ Real-world deployment requires suitable battery-monitoring hardware, calibrated 
 
 ## Documentation and Reports
 
-The following documents provide detailed information about the project design, implementation, testing, and internship learning outcomes.
+The following reports describe the project design, implementation, testing, and internship learning outcomes.
 
-- [Project Report](docs/Project_Report.pdf)
-- [Technical Report](docs/Technical_Report.pdf)
-- [Internship Report](docs/Internship_Report.pdf)
+- [Project Report](docs/ESP32%20Intelligent%20BMS%20Project_Report.pdf)
+- [Technical Report](docs/ESP32%20Intelligent%20BMS%20Technical%20Report.pdf)
+- [Internship Report](docs/ElevanceSkills%20Internship%20Report.pdf)
 - [BMS Assumptions Document](docs/BMS_Assumptions_Document.md)
 - [BMS Bug Log](docs/BMS_Bug_Log.md)
 
 ## Project Links
 
 - [Wokwi Simulation](https://wokwi.com/projects/477481844956329985)
-- [GitHub Repository](https://github.com/khairnarparth291-crypto/ESP32-Intelligent-Battery-Management-System)
