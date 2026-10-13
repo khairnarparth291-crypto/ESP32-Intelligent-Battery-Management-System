@@ -55,6 +55,8 @@ A 16×2 I²C LCD provides local status information, while a relay output and LED
 
 The project is developed and tested in the Wokwi simulation environment.
 
+**Try the simulation:** [Open the ESP32 Intelligent BMS on Wokwi](https://wokwi.com/projects/477481844956329985).
+
 > **Project scope:** This is an educational BMS prototype. Its simulation results demonstrate firmware behaviour and interface functionality; they do not establish the safety or accuracy of a real battery pack.
 
 ---
@@ -549,8 +551,13 @@ Interested in embedded systems, microcontrollers, IoT, battery monitoring, and h
 ### Project Links
 
 - **GitHub Repository:** [ESP32 Intelligent Battery Management System](https://github.com/khairnarparth291-crypto/ESP32-Intelligent-Battery-Management-System)
-- **Main Firmware:** `ESP32_Intelligent_BMS.ino`
-- **Documentation:** `docs/`
+- **Wokwi Simulation:** [Open the Interactive ESP32 BMS Simulation](https://wokwi.com/projects/477481844956329985)
+- **Main Firmware:** [`ESP32_Intelligent_BMS.ino`](./ESP32_Intelligent_BMS.ino)
+- **Assumptions Document:** [`BMS_Assumptions_Document.md`](./docs/BMS_Assumptions_Document.md)
+- **Bug Log and Verification Notes:** [`BMS_Bug_Log.md`](./docs/BMS_Bug_Log.md)
+- **Screenshot Documentation:** [`screenshots/README.md`](./screenshots/README.md)
+
+> **Simulation note:** Open the Wokwi link to view the circuit and run the simulation. Blynk telemetry may require your own Wi-Fi configuration and private device credentials; do not publish those credentials in this repository.
 
 ---
 
