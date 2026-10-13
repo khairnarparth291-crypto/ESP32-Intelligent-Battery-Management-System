@@ -576,3 +576,20 @@ Real-world deployment requires suitable battery-monitoring hardware, calibrated 
 **Built to explore Embedded Systems, Battery Monitoring, Fault Management, and IoT.**
 
 </div>
+
+---
+
+## Documentation and Reports
+
+The following documents provide detailed information about the project design, implementation, testing, and internship learning outcomes.
+
+- [Project Report](docs/Project_Report.pdf)
+- [Technical Report](docs/Technical_Report.pdf)
+- [Internship Report](docs/Internship_Report.pdf)
+- [BMS Assumptions Document](docs/BMS_Assumptions_Document.md)
+- [BMS Bug Log](docs/BMS_Bug_Log.md)
+
+## Project Links
+
+- [Wokwi Simulation](https://wokwi.com/projects/477481844956329985)
+- [GitHub Repository](https://github.com/khairnarparth291-crypto/ESP32-Intelligent-Battery-Management-System)
